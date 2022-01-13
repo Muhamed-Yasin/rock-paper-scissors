@@ -7,3 +7,5 @@ If you’re unfamiliar, rock paper scissors is a hand game for two or more playe
 Rock smashes scissors.
 Paper covers rock.
 Scissors cut paper.
+
+The usage of this script is pretty straightforward. You will be given the three choices and the computer will be picking one at random, and you can repeat this as many times as you want.
